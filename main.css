@@ -1,0 +1,26 @@
+.timer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: #212121;
+
+  font-size: 80px;
+}
+
+.field {
+  padding-left: 9px;
+  padding-right: 9px;
+  margin-right: 19px;
+  background: #daa6ed;
+  color: #4a0563;
+}
+
+.value {
+  margin-bottom: 40px;
+}
+
+.label {
+  display: block;
+  font-family: 'Hammersmith One', sans-serif;
+  font-size: 20px;
+}
